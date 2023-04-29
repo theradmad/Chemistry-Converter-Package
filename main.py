@@ -1,6 +1,6 @@
 import tkinter as tk
 from chempy import Substance
-install twine
+
 
 
 class ChemistryCalculator:
